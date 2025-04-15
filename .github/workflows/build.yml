@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'Dazitong'
                   releaseName: 'Dazitong v__VERSION__'
-                  releaseBody: '1.0'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
